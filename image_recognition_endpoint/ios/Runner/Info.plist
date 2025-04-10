@@ -45,5 +45,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+    <!-- 存储权限描述 -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>您的应用需要访问相册来保存图片和视频。</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>您的应用需要访问相册来保存图片和视频。</string>
+    <!-- 如果需要访问文档目录 -->
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>您的应用需要访问文档目录来保存文件。</string>
+
+    <!-- 相机相关权限 -->
+    <key>NSCameraUsageDescription</key>
+    <string>您的应用需要使用相机来拍摄照片和视频。</string>
 </dict>
 </plist>
